@@ -1,0 +1,15 @@
+/home/saint/Desktop/FloatPointNumbers/bin/Debug/net6.0/FloatPointNumbers
+/home/saint/Desktop/FloatPointNumbers/bin/Debug/net6.0/FloatPointNumbers.deps.json
+/home/saint/Desktop/FloatPointNumbers/bin/Debug/net6.0/FloatPointNumbers.runtimeconfig.json
+/home/saint/Desktop/FloatPointNumbers/bin/Debug/net6.0/FloatPointNumbers.dll
+/home/saint/Desktop/FloatPointNumbers/bin/Debug/net6.0/FloatPointNumbers.pdb
+/home/saint/Desktop/FloatPointNumbers/obj/Debug/net6.0/FloatPointNumbers.csproj.AssemblyReference.cache
+/home/saint/Desktop/FloatPointNumbers/obj/Debug/net6.0/FloatPointNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/FloatPointNumbers/obj/Debug/net6.0/FloatPointNumbers.AssemblyInfoInputs.cache
+/home/saint/Desktop/FloatPointNumbers/obj/Debug/net6.0/FloatPointNumbers.AssemblyInfo.cs
+/home/saint/Desktop/FloatPointNumbers/obj/Debug/net6.0/FloatPointNumbers.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/FloatPointNumbers/obj/Debug/net6.0/FloatPointNumbers.dll
+/home/saint/Desktop/FloatPointNumbers/obj/Debug/net6.0/refint/FloatPointNumbers.dll
+/home/saint/Desktop/FloatPointNumbers/obj/Debug/net6.0/FloatPointNumbers.pdb
+/home/saint/Desktop/FloatPointNumbers/obj/Debug/net6.0/FloatPointNumbers.genruntimeconfig.cache
+/home/saint/Desktop/FloatPointNumbers/obj/Debug/net6.0/ref/FloatPointNumbers.dll
